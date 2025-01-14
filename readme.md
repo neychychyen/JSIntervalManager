@@ -47,6 +47,10 @@ Cпособ 2. В вашем подключенном JavaScript-коде имп
 ```javascript
 import intervalManager from "/Ваш/Путь/До/Библиотеки/IntervalManager.js";
 ```
+Не забудьте добавить в HTML-документе в блоке подключенного скрипта, из которого собираетесь импортировать менеджер интервалов, атрибут type="module", например
+```html 
+<script type="module" src="/Ваш/Путь/До/Ява-скрипта/javaScript.js"></script>
+```
 </details>
 </details>
 <hr>
