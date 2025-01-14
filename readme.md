@@ -48,12 +48,3 @@
 
 </details>
 
-
-
-<script type="module">
-  import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js';
-
-  // Используйте библиотеку
-  console.log(intervalManager);
-</script>
-<br>
