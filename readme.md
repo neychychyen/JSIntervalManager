@@ -40,12 +40,12 @@ import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalM
 Способ 1. В HTML документе подключите скрипт кодом:
 
 ```html 
-<script src="/Ваш/Путь/До/Библиотеки"></script>
+<script src="/Ваш/Путь/До/Библиотеки/IntervalManager.js"></script>
 ```
       
 Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
 ```javascript
-import intervalManager from "/Ваш/Путь/До/Библиотеки";
+import intervalManager from "/Ваш/Путь/До/Библиотеки/IntervalManager.js";
 ```
 </details>
 </details>
