@@ -9,39 +9,49 @@
     <summary>Установка</summary>
      Вы можете установить библиотеку разными способами
 
-<br>
+<hr>
 <details>
-    <summary>Онлайн подключение</summary>
-      <details>
-            <summary>Используйте ссылку на библиотеку в коде **`https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js`**</summary>
-      Способ 1. В HTML документе подключите скрипт кодом:
-           ```html 
-            <script src=https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js></script>
-            ```
-      Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
-      ```javascript
-      import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js';
-      ```
-      </details>
-</details>
+<summary>Онлайн подключение</summary>
+<p>Используйте ссылку на библиотеку в коде <a href = ''>https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js</a></p>
 
 <details>
-     <summary>Оффлайн установка</summary>
-    Скачайте библиотеку <a href="https://github.com/neychychyen/JSIntervalManager/blob/master/IntervalManager.js">intervalmanagerjs</a> и поместите ее в папку с проектом
-    <details>
-          <summary>Детальная установка</summary>
-          Способ 1. В HTML документе подключите скрипт кодом:
-               ```html
-               <script src="/Ваш/Путь/До/Библиотеки"></script>
-               ```
-          Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
-          ```javascript
-          import intervalManager from "/Ваш/Путь/До/Библиотеки";
-          ```
-      </details>
-  
+<summary>Подробная инструкция</summary>
+
+Способ 1. В HTML документе подключите скрипт кодом:
+
+```html 
+<script src='https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js'></script>
+```
+      
+Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
+```javascript
+import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js';
+```
+</details>
+</details>
+<hr>
+<details>
+<summary>Оффлайн подключение</summary>
+<p>Скачайте библиотеку <a href = 'https://github.com/neychychyen/JSIntervalManager/blob/master/IntervalManager.js'>IntervalManager.js</a>  и поместите ее в папку с проектом</p>
+
+<details>
+<summary>Подробная инструкция по установке</summary>
+
+Способ 1. В HTML документе подключите скрипт кодом:
+
+```html 
+<script src="/Ваш/Путь/До/Библиотеки"></script>
+```
+      
+Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
+```javascript
+import intervalManager from "/Ваш/Путь/До/Библиотеки";
+```
+</details>
+</details>
+<hr>
+
 </details>
 
 
-</details>
 
