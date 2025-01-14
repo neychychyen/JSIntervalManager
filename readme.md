@@ -8,24 +8,21 @@
 <details>
     <summary>Установка</summary>
      Вы можете установить библиотеку разными способами
-    <details>
-        <summary>Онлайн подключение</summary>
-          <details>
-          <summary>Используйте ссылку на библиотеку в коде **`https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js`**</summary>
-          Способ 1. В HTML документе подключите скрипт кодом:
-               ```html
-               <script src="https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js"></script>
-               ```
-          Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
-          ```javascript
-          import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js';
-          ```
-          </details>
 
-  
-  
-
-  
+<br>
+<details>
+    <summary>Онлайн подключение</summary>
+      <details>
+            <summary>Используйте ссылку на библиотеку в коде **`https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js`**</summary>
+      Способ 1. В HTML документе подключите скрипт кодом:
+           ```html 
+            <script src=https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js></script>
+            ```
+      Cпособ 2. В вашем подключенном JavaScript-коде импортируйте библиотеку с помощью:
+      ```javascript
+      import intervalManager from 'https://cdn.jsdelivr.net/gh/neychychyen/JSIntervalManager/IntervalManager.js';
+      ```
+      </details>
 </details>
 
 <details>
