@@ -1,4 +1,4 @@
-class IntervalManager {
+export default class IntervalManager {
   constructor() {
     this.intervals = [];  // Массив для хранения всех идентификаторов интервалов
   }
